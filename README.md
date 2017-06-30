@@ -11,4 +11,4 @@ http://www.w3schools.com/dom/dom_errors.asp
 Now updated to support FileMaker 16.
 
 Read more here:
-http://www.soliantconsulting.com/blog/2016...
+http://www.soliantconsulting.com/blog/2017/06/filemaker-16-javascript-changes
